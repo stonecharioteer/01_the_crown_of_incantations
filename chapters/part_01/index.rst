@@ -26,6 +26,7 @@ Part One: To the Second Continent
 
     the_stage_supreme
     the_name_that_was_forgotten
+    in_elvindore
     merlocks_debt
     to_shoulder_responsibility
     the_long_journey_begins

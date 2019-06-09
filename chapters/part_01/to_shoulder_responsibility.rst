@@ -2,14 +2,14 @@
 To Shoulder Responsibility
 ===========================
 
-.. 
+..
     Kroman hears the Khaay out. Merlock wants the Crown to stop an impending war which will start at the hands of three tyrants. He needs the Crown’s power to stand up against them.
 
     Kro agrees to help. He decides to ask the Gradii for help. Sin agrees to come with him, but his father stops him at the last minute as they receive news of Gawin Oreille’s death.
 
     Kro has only 5 months to complete this journey.
 
-***
+---
 
 “Merlock the Wise? I haven’t heard that name in a long time.” Ransu’s voice sounded soft, as though trying to remember a painful memory.
 
@@ -125,11 +125,11 @@ Eomth looked at Ransu who nodded. He was still looking at Eomth through the corn
 
 “I hope so,” Kroman replied.
 
-***
+---
 
 They returned to the top of Maekis a few hours before daybreak. Ransu had insisted that Kroman stay for the feast. Kroman wondered about that, to a Gradius there was a feast every night. He hadn’t seen Eomth once again, he wanted to speak with him once before leaving but Radell had said that Eomth was the only one who looked like he didn’t belong there.
 
-The horizon was lined in hues of pink and purple as the silvery clouds flanked it from either side. Kroman could hear birds chirping loudly, he recognised most of the calls to be territorial. A male telling a female where the nest was, a female telling the male that it was her turn to hunt. The owls had retired already, there weren’t too many here but Kroman could usually spot one or two hooting nearby. There was a calm breeze in the leaves so in all it seemed like a glorious orchestra of sorts. 
+The horizon was lined in hues of pink and purple as the silvery clouds flanked it from either side. Kroman could hear birds chirping loudly, he recognised most of the calls to be territorial. A male telling a female where the nest was, a female telling the male that it was her turn to hunt. The owls had retired already, there weren’t too many here but Kroman could usually spot one or two hooting nearby. There was a calm breeze in the leaves so in all it seemed like a glorious orchestra of sorts.
 
 Sintrei walked back to the village, leaving Kroman on the hilltop. Everyone knew that Krono-Kroman of Straasfore loved to spend nights in Elvindore atop Maekis. But tonight, the Sorcerer-King had other plans in mind.
 
@@ -139,7 +139,7 @@ He seized control of all the Energy around him. It felt like a wind gushing thro
 
 His eyes returned to their normal size but he knew that the pupils would be black nownow. He had never felt more alive than he had when in this state. He had no limits to his power. He felt that he had power enough to turn back time itself.
 
-« Are you drunk on power, Kroman? » 
+« Are you drunk on power, Kroman? »
 
 He smiled for an instant and felt a warm aura surround him. He had always linked this aura to his ancestor’s presence. Memlus Arelus could speak to him whenever he was in this state. At times he had often transformed only to feel the aura, feel like he was being comforted. But Arelus had not spoken for ten years.
 
@@ -153,8 +153,8 @@ Merlock is the only being to be able to traverse between the Three worlds withou
 
 “Five months?” Kroman said out loud. He could feel his ancestor’s aura change. Memlus Arelus was smiling.
 
-« Well, it isn’t that hard. But you might make it complicated if you let your guard down. Go and find the Key so that you can retrieve the Crown, Kroman. Do what he asks of you. » 
+« Well, it isn’t that hard. But you might make it complicated if you let your guard down. Go and find the Key so that you can retrieve the Crown, Kroman. Do what he asks of you. »
 
 Kroman nodded and released the Energy stream, instantly returning to his normal state. Since it had been quite some time since he had used that form, he was tired. He sat down on the soft grass and rested for a moment. He was soon lost in his thoughts as he fell back and went to sleep.
 
-***
+---

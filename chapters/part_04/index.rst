@@ -1,4 +1,3 @@
-
 =======================
 Part Four: Enas Raeil
 =======================
@@ -15,4 +14,3 @@ Part Four: Enas Raeil
     demon_demon
     one_elwash_on_old_mountain_high
     the_storm_cloud_gathers
-

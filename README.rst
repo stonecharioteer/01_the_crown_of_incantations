@@ -1,4 +1,3 @@
-
 ==============================
 Blinder Trilogy: Book One
 ==============================
@@ -7,6 +6,7 @@ Blinder Trilogy: Book One
 The Crown of Incantations
 ---------------------------------
 
+Author: `Vinay Keerthi <mailto:ktvkvinaykeerthi@gmail.com>`_
 
 .. note::
 
@@ -23,6 +23,19 @@ stands risk of being attacked by Teria, a nation run by Kro's half-brother
 Yagnik.
 
 Can Kro save his kingdom, or will he lose everything?
+
+--------------------------
+About the Current Version
+--------------------------
+
+The live version of this document is available at
+`this link. <https://regenesis.gitlab.io/01_the_crown_of_incantations>`_
+E-pub, Mobi and PDF may be downloaded here.
+
+This book in its current form corresponds to the 6th Draft of this work.
+This version is hereafter labelled version 0, corresponding to 2019.06.
+The changes hereafter break several continuities in the previous version and
+must be considered to supercede the previous drafts.
 
 --------------------------------------------------------------------------------------------
 Rights: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
