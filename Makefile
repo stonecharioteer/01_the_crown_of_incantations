@@ -6,7 +6,8 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = TheCrownofIncantationsBlinderTrilogyBookOne
 SOURCEDIR     = chapters
-BUILDDIR      = build/`date +%F`
+# BUILDDIR      = build/`date +%F`  # local build.
+BUILDDIR      = build/`+%F`
 #echo $BUILDDIR;
 
 # Put it first so that "make" without argument is like "make help".
