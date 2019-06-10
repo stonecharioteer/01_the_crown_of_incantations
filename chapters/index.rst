@@ -1,3 +1,5 @@
+.. role:: dropcap
+
 .. include:: ../README.rst
 
 .. toctree::

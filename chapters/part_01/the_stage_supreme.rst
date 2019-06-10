@@ -5,15 +5,17 @@
 The Stage Supreme
 ====================
 
-`Emansun - 3300-2-17`
+.. rst-class:: date
 
-.. todo::
+    `Emansun - 3300-2-17`
 
-    Characters need a name, race, gender and an age. Need to figure out a way
+----
+
+..     Characters need a name, race, gender and an age. Need to figure out a way
     to set relationships. Also, how do I pick subsequent uses? This feels
     like writing a new programming language parser.
 
-    I don't need to complicate this though. Sphinx more than supports all I
+..    I don't need to complicate this though. Sphinx more than supports all I
     need.
 
 
