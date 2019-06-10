@@ -137,6 +137,12 @@ html_sidebars = {
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'TheCrownofIncantationsBlinderTrilogyBookOnedoc'
+html_show_sourcelink = False
+
+def setup(app):
+    app.add_stylesheet('https://fonts.googleapis.com/css?family=Merriweather&display=swap')
+    app.add_stylesheet('css/custom.css')
+
 
 
 # -- Options for LaTeX output ---------------------------------------------
