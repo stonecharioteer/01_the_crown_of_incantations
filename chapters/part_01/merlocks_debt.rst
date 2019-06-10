@@ -12,4 +12,4 @@ Kroman frowned. “I have told you what you want to know. Now it is your turn. W
 
 Gorto rose and dusted the front of his trousers. He took his staff in his hand and said, “Merlock asks you to give him the Crown of Incantations.”
 
-***
+-------
