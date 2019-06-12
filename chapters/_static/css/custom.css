@@ -12,12 +12,13 @@ h2 {
     /* font-weight: bold; */
 }
 
-/* Dropcaps for all paragraphs starting a new section or chapter. */
+/* Dropcaps for all paragraphs starting 
+a new section or chapter. 
+TODO: Figure out how to deal with situations where
+there are notes preceding the first paragraph.
+*/
 hr.docutils + p:first-letter,
-h1 + p:not(.date):first-of-type:first-letter {
-    /* color: #000; */
-/* p > span.dropcap::first-letter { */
-    /* color: red; */
+h1 ~ p:not(.date):first-of-type:first-letter {
     float: left;
     font-family: 'Merriweather', serif;
     font-size: 75px;
