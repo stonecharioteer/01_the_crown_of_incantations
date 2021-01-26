@@ -83,7 +83,7 @@ exclude_patterns = []
 pygments_style = 'sphinx'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = True
+todo_include_todos = False
 
 
 # -- Options for HTML output ----------------------------------------------
@@ -228,3 +228,5 @@ html_title = "The Crown of Incantations"
 html_short_title = "Blinder, One"
 html_last_updated_fmt = ""
 html_experimental_html5_writer = True
+epub_show_urls = "no"
+

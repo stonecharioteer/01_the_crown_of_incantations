@@ -10,229 +10,126 @@
 
 
 ======================================
-Prologue : The Arrival of the Khaay
+Prologue: The Crown and the Sceptre
 ======================================
 
-A ragged horse cart trotted along a stone-paved road that had recently been
-repaired.
+The Wizards were going to lose.
 
-It was a bright dawn. Not yet completely day of course, because if it had
-been, farmer Meelo would have had to turn back – it was useless to get to
-the city after everyone else had finished setting up their stalls.
+After all, they had placed theri hope in a fool who lay on the ground, nearly dead. Yagnik, the Overlord, kicked his half-brother Krono-Kroman's body and sent it flying. He used the Energy to strengthen his kicks.
 
-Meelo looked over his back suspiciously at the road; he had come across no
-trouble along these roads before. The idea was almost ludicrous, this country
-was the safest in the world. The sounds of his rickety cart and the wagon
-behind it holding his stores of corn and barley would fetch a good price.
-The green pastures of the valley had rewarded everyone well this year.
-Harvests had been plenty in the last ten years, since the Sorcerer-King’s
-coronation. All was well.
+Kroman's body slumped against the wall, lifeless.
 
-Looking ahead he spotted three short figures on the road ahead and raised an
-eye in surprise. Children out on their own? Straasfore was safe but people
-needed more caution in their lives.
+It had always meant to come down to this. There was once a time when Wizards were considered more powerful than Warlocks but that time was long past.
 
-“Hello there!” Meelo called out, waving his hand while pulling Corri to a
-halt. The dun coloured mare tossed her head and snorted. The three short
-figures stopped and turned and Meelo vaguely felt that he had made a mistake.
+The devastating mess that had once served as a throne room was flickering as the dome around the Wizards blinked from red to yellow and to red again. Heat filled the hemisphere, and lightning touched them, a bare reminder of the possible ways that they could die. A lie of course, their deaths would be slow.
 
-They were wearing strange clothes, open vests over thin sleeveless shirts
-and long flowing skirts, all of a monotonous auburn colour. Two of them held
-bright silver staffs that were as tall as them. The third carried a
-staff-shaped object wrapped completely in a brown cloth on his shoulder.
-Strange attire, but the strangest was the fact that grew more apparent as he
-got closer - they were not children.
+The others in the throne room were what remained of the Warlocks, laughing mockingly. Yagnik gestured at Kroman's body.
 
-The tallest of them was the one carrying the wrapped staff and he could not
-have been more than five feet. Neatly trimmed beards darkened their chins and
-their hair was bright red.
+"What did you think would happen, dear brother?" Yagnik stepped towards him. "Did you think that their *lie* would help you? Did you think you were one of them? A *Wizard?*"
 
-“On your way to the city?” he asked.
+Kroman's body did not move. "So what if you are? Do you think it matters when I wear this?"
 
-One of them, the second tallest, stepped forwards and replied, “To Emansun.”
+He touched the crown on his head, the source of his power. It was an artefact of a legend, once barely a myth but it rested there, more real than life itself. It seduced the Energy of the Three Worlds and filled him with it, amplifying his control over it. With it, no mere Wizard could surpass him. With the Crown of Incantations, Yagnik would rule the world.
 
-Offering them a slight shrug, Meelo asked, “So where are you from? I’ll bet
-my horse that I haven’t seen you around last harvest.”
+He had savoured every moment that it took to break the fool, and it had taken a lot. Despite his shortcomings in loyalty, Kroman still had the blood of Overlords in him.
 
-The short man shook his head, “No, you haven’t. We’re travellers, from the
-Midlands.”
+He descended the wide stairs that led from the podium on which his throne stood. It was a sight that filled him with glee. With this fool, this so-called redeemer, his half-brother dead, there would be no one to oppose him.
 
-Meelo whistled, “Travellers? I’ve met merchants from as far as Drome and
-Alahairetaandanell, but I haven’t seen anyone in –” he checked himself and
-shook his head. “Well, it doesn’t matter. Get on the cart, I’ll give you a
-ride to the city.”
+The throne room was silent, except for the silent sobs of one of the Wizards - a woman.
 
-The man shook his head, staring apprehensively at the taller one.
-“We don’t want to slow you down sir.”
+Barely satisfied, the Overlord turned to consider the others trapped inside the dome, their bleak hopes shattered by the might of the Crown of Incantations. He was going to make an example of them; this is what would happen to whoever challenged the power of an Overlord.
 
-Meelo shook his head and gestured with his hand for them to get on.
-“If the Sorcerer-King got the wind that Meelo had let guests to his kingdom
-go without the barest display of hospitality, he’d not forgive him!” The
-Sorcerer-King didn't know Meelo personally, but he was hospitable to everyone.
+Conquerers had the right to rewrite history. The conquered were always the villains.
 
-The three men looked at Meelo and the one who’d done all the talking offered
-a half-smile.
+He walked towards the dome, thinking about how to make their last moments their worst when he almost stepped over a golden sceptre.
 
-“Very well sir, we accept.”
+It was a thing out of legend. Something that shouldn't have been possible. Within it rested the hopes of the rebellion. The last person to wield it had walked through these halls like an unstoppable force. Sixty years ago, a Wizard had led the very fools now trapped inside the dome to challenge Yagnik's father. *No, not a Wizard.* The Overlord reminded himself. *Almost a god*.
 
-After a few minutes, Meelo returned Corri to her trot, with the three
-Midlanders settled on the cart behind him.
+But now, the power would be his for the taking. The triumph made him drunk with pride.
 
-“Is it your first time coming to Straasfore?” Meelo said, turning around to
-look at them.
+His hand moved instinctively over the sceptre and he tried to use the Energy to raise it.
 
-The man who’d done all the talking was sitting closest to him, his other
-companions looked on silently as he replied, “Yes, we just arrived a few
-hours ago and began heading straight to the city.” He pointed at the
-way-signs along the side of the road. “Those make it easy to travel.”
+It didn't budge. *Strange*. Yagnik shrugged off the feeling and bent down to reach for it.
 
-Meelo nodded. “All his work you know. This kingdom has never been more
-prosperous than since the Sorcerer-King took over it.”
+As he was about to touch it, the emerald gem embedded on the top of the sceptre lit up, black lightning surged through the sparkling metal, making him jump back in alarm. The bottom end of the sceptre was crafted in the form of a hawk's talon grasping an emerald snake. Yagnik was spellbound as the snake appeared to writhe in the grasp for a long instant before the sceptre shot towards the body of his half-brother.
 
-The Midlander looked interested as he asked, “Since he took over it?”
+Krono-Kroman's right hand rose up in reflex, the lightning ran through him and into the ground. The throne room began to tremble as a purple dome glashed into existence around Kroman's body, hiding him from view.
 
-“Beat the Overlord and his people didn’t he? He ran the Terian scum out of
-our lands and back to their own. Straasfore was free after *four*
-hundred years,” Meelo turned around mid-sentence and looked at the blank
-expression on their faces. “You don’t mean you haven’t heard the story!”
+A growl escaped Yagnik's clenched jaw. After all his efforts, the wretch was still *alive?*
 
-The Midlander shook his head, trying to appear apologetic. Meelo took in a
-deep breath to show them how important that was. He hadn’t heard of anyone
-who didn’t know what this kingdom had gone through.
+Gathering the Energy, Yagnik formed a protective shield around him. Even in his rage, he kept touching the crown on his head, reassuring himself that it was still there. 
 
-“I had it from my father who had it from his grandfather, you see, the old
-kingdom of Straasfore was a beautiful place,” Meelo paused, searching for
-words, “It was spectacular, the work of the Warlords, who had such strange
-powers. Now the neighbouring kingdom of Teria was jealous of that kingdom and
-wanted the power of the Warlords so they attacked when they knew the Warlords
-couldn’t fight back.”
+The purple dome flashed several times, each time hinting at what was happening inside. Krono-Kroman was on his feet, a majestic frame with the lightning pulsing through him. His clothes flapped as a blue fire surrounded him. Yagnik watching with growing horror and strange fascination as his half-brohter's auburn hair turned white and the sceptre in his hand flashed brighter than the sun.
 
-The Midlander raised an eyebrow but didn’t say anything. “They conquered this
-country and killed all the Warlords that they could find.”
+Yagnik shielded himself with his hands, surprised that he couldn't breathe properly, much less grasp the Energy which was flowing towards his half-brohter now. What was going on? What was the fool doing? The light was blinding bright and he had to cover his face and watch through the gaps between his fingers.
 
-Meelo waited for a reply and went on when he got none.
+Krono-Kroman threw his head back, his fair danced wilding behind him as he roared. The sceptre flickered one last time, and vanished. All that remained in that dome was something Yagnik had been taught to fear and cower in front of from his childhood.
 
-“For three hundred years they ruled without contest, and married the women
-from the Warlord families. Their children were born with a little of the
-Warlords’ powers and they called themselves Warlocks, just to make themselves
-sound different from the Warlords.”
+He lashed out, somewhat surprised that he was again in control of the Enerhy.
 
-The Midlander raised an eyebrow — he did that a lot — but said nothing.
+The whip-like lashing of fire and air struct the dome and somehow coalesced with it, the dome took in all the Energy he'd thrown into the attack. He almost forgot to use the Crown in that assault.
 
-“Now some of the Warlords who had gone into hiding began to return. Or their
-children returned, but their power had greatly reduced. They called
-themselves Wizards instead, though I don’t know the difference much.”
+Yagnik concentrated the Energy into a skin-tight layer around him, there was no need for a buffer that other Warlocks needed because of the Crown. It was far better than how the Wizards claimed to do so, after all, it was the legendary Warlords that had made this Crown.
 
-The Midlander nodded, as though he understood something Meelo didn’t.
+The dome around Kroman converged inwards, the room was glowing, the gold and green tapestries turned purple, the white marble pillars splintered and cracked. The dome burst outwards, pushing away the other Warlocks around them and the Overlord wondered if it had spared him only because his half-brohter had something much more humiliating in mind.
 
-Meelo ignored him and went on. “The Wizards fought against the Warlocks as
-hard as they could and they were not winning. Not until he came.”
+Lightning surged through the ground under Kroman's feet as the purple glow died down. his eyes had no pupils, they were empty pools of black hatred staring right at him. A dozen tiny dots shone from inside his eyes, like stars. They no longer had any of the mergcy that Kroman was famous for. Murderous eyes - brimming with power and hate staring right at the Overlord.
 
-“The Sorcerer-King?” one of the younger Midlanders asked.
+*Underestimate me, will he?*
 
-“Well yes and no… his name was Memlus Arelus, he was the first Sorcerer.
-He gathered the remaining Wizards and attacked the city of Emansun, reaching
-the court of the Overlord himself.”
+Yagnik knew that the Crown was now useless; all hope of surviving this encounter had vanished.
 
-Meelo looked skywards and then sighed, “But he died in the attempt.”
+The Overlord threw his hands foward, bringing down the roof and the Energy around Kroman warped, sending a pillar of light upwards. The light reduced the rubble to dust before it the ground. Not one speck of it touched the being at the epicentre of the chaos.
 
-The Midlander leaned forwards. “How?”
+The Energy warped once agin and the pillars broke apart, yet the upper floor of the palace hovered in the air defying gravity.
 
-“No one knows. The Overlord said he killed him but no one believed that
-story. Some say the Sorcerer stopped himself, learning about the future.”
+This was the same power that had ratted the empire sixty years before. The same sight that had brought shivers to his father and grandfather. Before he became an Overlord, Yagnik grew up listened to stores of the Sorcerer and the legendary strength he possessed.
 
-“The future?”
+The Sorcerer began walking forwards and Yagnik, in panic, threw all the Energy the Crown granted him, although he felt like he was spitting on a forest-fire.
 
-Meelo smiled. This was the best part of the story. “Yes, it was foreseen that
-the one who’d liberate Straasfore from the grips of evil would come from the
-house of the Overlord itself! His own son Krono-Kroman in fact.”
+The raging chaos around the Sorcerer calmed down for an eternal moment before he raised his head, his eyes shining red for another eternity before thin strings of blue flames shot out at Yagnik, taking the Crown from his head.
 
-“Why did the Overlord’s son try to liberate Straasfore? Wasn’t he going to be
-the next Overlord?”
+The Sorcerer raised his hand to catch the Crown and as soon as it was in his hand, the Energy warped once more and the Crown of Incantations vanished in a burst of light.
 
-“The Overlord had two sons and he held a contest to see which of them would
-inherit the throne. But before the contest could end fairly, his other son,
-Yagnik, murdered him with the help of his ministers and threw Krono-Kroman
-into a dungeon.”
+Kroman glowered at Yagnik and thrusted his right hand forth, and the Energy exploded.
 
-“Why didn’t he kill him as well?”
+----
 
-Meelo frowned. The Midlander was asking difficult questions now. “I’m a simple
-farmer, stranger. I do not understand the whims of kings.” When the Midlander
-didn’t reply, Meelo went on, “Krono-Kroman escaped from the dungeon and fled
-to the forests where he found Memlus Arelus’s students, or they had found
-him. In the months that followed Kroman trained his fellow men and built an
-army and plotted revenge. Soon Krono-Kroman was back with his army to fight
-the new Overlord, Yagnik. With him at their helm, the Wizards waged war
-against Emansun and all of Teria. In that battle, it happened -
-Krono-Kroman became a Sorcerer.”
+  The dust of days is thickest at dawn,
 
-The Midlander nodded slowly, taking his time about it now. “What happened
-to the Overlord? Did the Sorcerer-King kill him?”
+  Rent by horizons west and east,
+  
+  It marrs the way to the Sun.
+  
+  The Laughing God walks in the form of sin.
+  
+  The Drunken Bard plays the Song Holy at dusk.
+  
+  The Blue Man walks the waters of the Sea searching.
+  
+  The Mother of All has abandoned our Father.
+  
+  Lost in the caress of His desolation,
+  
+  The Lightbringer cries and the World ends.
+  
+  From the brink of despair shine three beacons,
+  
+  For their coming the Worlds must prepare.
+  
+  In their midst, Gods are dying.
+  
+  For in their after there is another change.
+  
+  The Overseer watches, his days numbered.
+  
+  The Gatekeeper waits, his way blocked.
+  
+  The Scribe writes, his inkpot empty.
+  
+  The Tale of Many Tellings thus begins,
+  
+  Sung silently on the precipice of a dream.
 
-Meelo frowned. “No, he spared him and any of the ministers who wanted to
-leave. Led them to the border of Straasfore and allowed them to go to Teria.”
+  -- Author unknown
 
-The Midlander said nothing but looked pensively at his companions as though
-he was talking to them through his mind.
-
-Meelo began talking about the city of Emansun, he told them how old it was
-and what a magnificent sight its golden walls were. He told them about the
-second palace at Emannun, the city the Sorcerer-King had built in memory of
-the town that had assisted him in the battle, and about the forest of
-Ten-Alar which was rumoured to house the half-immortal Elwash.
-
-Meelo soon ran out of things to say although he felt he needed to say some
-more, to tell them about the Sorcerer-King’s powers. But before he had a
-chance to speak, a sight that could mute even a bard’s voice began rising out
-of the horizon- the glorious citadel of the city of Emansun.
-
-The citadel dazzled like the sun and appeared like a giant crown placed in
-the middle of the land.
-
-Perfect, almost fluid, golden walls rose from the ground and stood blazing in
-the morning sun. There were no crevices, gaps, or scratches on those towering
-structures, no damage to show that they had witnessed and withstood years
-and years of war. The citadel stood in proud glory and at pivotal locations,
-angular bastions projected from the walls. Meelo had seen them guarded by
-wizards all the time whenever even the slightest hint of danger crept up.
-There had been some minor scuffles in the past, but Teria had never managed
-to gather an army large enough to try and take Straasfore again.
-
-The Midlanders were impressed by the sight, Meelo observed. Of course they
-were, no other city had golden walls.
-
-He looked ahead as he led Cori to a slightly faster trot, staring up at the
-main portcullis. From a flag post above the wall hung a bright red banner on
-it was a picture of a golden eagle with an emerald serpent in its talons; the
-banner of the Sorcerer-King. The flag of Krono-Kroman – It promised security
-and the flashing red, gold and green exuded overwhelming power.
-
-Meelo breathed in deeply with awe and pride – these Midlanders were in for
-the sight of a lifetime.
-
---------------------------------------
-
-..
-
-    | *The dust of days is thickest at dawn,*
-    | *Rent by horizons west and east,*
-    | *It mars the way to the Sun.*
-    | *The Laughing God walks in the form of sin.*
-    | *The Drunken Bard plays the Song Holy at dusk.*
-    | *The Blue Man walks the waters of the Sea searching.*
-    | *The Mother of All has abandoned our Father.*
-    | *Lost in the caress of His desolation,*
-    | *The Lightbringer cries and the World ends.*
-    |
-    | *From the brink of despair shine three beacons,*
-    | *For their coming the Worlds must prepare.*
-    | *In their midst, Gods are dying.*
-    | *For in their aft there is another chance.*
-    | *The Overseer watches, his days numbered.*
-    | *The Gatekeeper waits, his way blocked.*
-    | *The Scribe writes, his ink-pot empty.*
-    | *The Tale of Many Tellings thus begins,*
-    | *Sung silently on the precipice of a dream.*
-
---------------------------------------

@@ -6,7 +6,10 @@ Blinder Trilogy: Book One
 The Crown of Incantations
 ---------------------------------
 
+
 Author: `Vinay Keerthi <mailto:ktvkvinaykeerthi@gmail.com>`_
+
+----
 
 .. note::
 
@@ -23,6 +26,8 @@ stands risk of being attacked by Teria, a nation run by Kro's half-brother
 Yagnik.
 
 Can Kro save his kingdom, or will he lose everything?
+
+----
 
 --------------------------
 About the Current Version
@@ -49,3 +54,5 @@ Rights: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internation
 
     Vinay Keerthi exercises his right to be named as the author of this work
     and is to be contacted to discuss licensing, usage and distribution.
+
+

@@ -1,24 +1,36 @@
-
 ===================================
 Part One: To the Second Continent
 ===================================
 
-..
+----
 
-    | *Thrice was the world rent,*
-    | *Once in our infancy,*
-    | *Then by our heinous bent.*
-    | *The last time, it was by you.*
-    | *Oh Sons of Timmel! It was by you.*
 
-    | *- Author Unknown*
+    Thrice was the world rent,
+    
+    Once in our infancy,
+    
+    Then by our heinous bent.
+    
+    The last time, it was by you.
+    
+    Oh Sons of Timmel! It was by you.
 
-    | *The mists rise past the dead and rotten.*
-    | *Great sovereigns rise and fall.*
-    | *The Song of Creation is forgotten.*
-    | *But the One shall rule ye all.*
+    -- Author Unknown
 
-    | *- Excerpt from the Annals of Cataranan.*
+----
+
+
+    The mists rise past the dead and rotten.
+    
+    Great sovereigns rise and fall.
+    
+    The Song of Creation is forgotten.
+    
+    But the One shall rule ye all.
+
+    -- Excerpt from the Annals of Cataranan.
+
+----
 
 
 .. toctree::
@@ -34,3 +46,5 @@ Part One: To the Second Continent
     the_crown_of_thorns
     in_the_face_of_war
     khanshu_trembles
+
+
