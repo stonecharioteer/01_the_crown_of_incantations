@@ -6,7 +6,6 @@
 
 .. toctree::
     :maxdepth: 3
-    :numbered:
     :caption: Chapters:
 
     prologue

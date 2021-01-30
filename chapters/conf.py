@@ -33,12 +33,12 @@ import datetime
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx.ext.autodoc',
-    'sphinx.ext.doctest',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
-    'sphinx.ext.imgmath',
-    'sphinx.ext.ifconfig',
-    'sphinx.ext.githubpages']
+              'sphinx.ext.doctest',
+              'sphinx.ext.intersphinx',
+              'sphinx.ext.todo',
+              'sphinx.ext.imgmath',
+              'sphinx.ext.ifconfig',
+              'sphinx.ext.githubpages']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -62,7 +62,6 @@ author = 'Vinay Keerthi'
 # built documents.
 #
 # The short X.Y version.
-import datetime
 version = "{}".format(datetime.datetime.now().strftime('%Y.%m'))
 # The full version, including alpha/beta/rc tags.
 release = '{}-alpha'.format(version)
@@ -91,8 +90,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "sphinx_rtd_theme"
-#html_theme = 'alabaster'
+html_theme = "furo"
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -100,6 +98,7 @@ html_theme = "sphinx_rtd_theme"
 #
 # html_theme_options = {}
 html_theme_options = {
+    "announcement": "<em?>This is a work in progress.</em>",
     'canonical_url': '',
     'analytics_id': '',
     'logo_only': False,
@@ -112,7 +111,15 @@ html_theme_options = {
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
-    'titles_only': False
+    'titles_only': False,
+    "light_css_variables": {
+        "font-stack": "Merriweather, Serif",
+        "font-stack--monospace": "Courier, monospace",
+    },
+    "dark_css_variables": {
+        "font-stack": "Merriweather, Serif",
+        "font-stack--monospace": "Courier, monospace",
+    },
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -139,14 +146,14 @@ html_sidebars = {
 htmlhelp_basename = 'TheCrownofIncantationsBlinderTrilogyBookOnedoc'
 html_show_sourcelink = False
 
+
 def setup(app):
-    app.add_stylesheet('https://fonts.googleapis.com/css?family=Merriweather&display=swap')
+    app.add_stylesheet(
+        'https://fonts.googleapis.com/css?family=Merriweather&display=swap')
     app.add_stylesheet('css/custom.css')
 
 
-
 # -- Options for LaTeX output ---------------------------------------------
-
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
@@ -197,7 +204,6 @@ texinfo_documents = [
 ]
 
 
-
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
@@ -229,4 +235,3 @@ html_short_title = "Blinder, One"
 html_last_updated_fmt = ""
 html_experimental_html5_writer = True
 epub_show_urls = "no"
-
