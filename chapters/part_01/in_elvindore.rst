@@ -1,6 +1,6 @@
-==============
-In Elvindore
-==============
+=================
+3. In Elvindore
+=================
 
 ..
     Berya arrives at Emansun and sneaks into Asya’s bedroom. She tells her

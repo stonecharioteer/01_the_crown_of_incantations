@@ -3,7 +3,6 @@
 Part Two: The Crown of Incantations
 ====================================
 
-
 .. toctree::
 
     a_method_to_the_madness
@@ -14,4 +13,3 @@ Part Two: The Crown of Incantations
     the_door_to_the_raazian_realm
     divine_intervention
     holy_ground
-

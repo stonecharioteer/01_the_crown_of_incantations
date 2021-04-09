@@ -2,7 +2,9 @@
 
 .. include:: ../README.rst
 
-----
+--------------
+Chapters
+--------------
 
 .. toctree::
     :maxdepth: 3

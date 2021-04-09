@@ -1,9 +1,9 @@
 ..
     Chapter 1: The Stage Supreme
 
-====================
-The Stage Supreme
-====================
+=====================
+1. The Stage Supreme
+=====================
 
 .. rst-class:: date
 

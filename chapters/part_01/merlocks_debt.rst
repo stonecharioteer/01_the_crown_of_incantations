@@ -1,7 +1,7 @@
 
-===============
-Merlock’s Debt
-===============
+==================
+4. Merlock’s Debt
+==================
 
 ..
     Kro feels better the next day. He asks the Khaay to name what they want in

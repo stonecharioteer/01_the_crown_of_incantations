@@ -1,4 +1,3 @@
-
 .. todo::
 
     Need to figure out how to specify locations and timelines. I can use
