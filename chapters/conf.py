@@ -99,17 +99,6 @@ html_theme = "furo"
 # html_theme_options = {}
 html_theme_options = {
     "announcement": "<em?>This is a work in progress.</em>",
-    'logo_only': False,
-    'display_version': True,
-    'prev_next_buttons_location': 'both',
-    'style_external_links': True,
-    # 'vcs_pageview_mode': '',
-    # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': True,
-    'titles_only': False,
     "light_css_variables": {
         "font-stack": "Merriweather, Serif",
         "font-stack--monospace": "Courier, monospace",
@@ -132,3 +121,5 @@ html_short_title = "Blinder, One"
 html_last_updated_fmt = ""
 html_experimental_html5_writer = True
 epub_show_urls = "no"
+
+html_show_sphinx = False
