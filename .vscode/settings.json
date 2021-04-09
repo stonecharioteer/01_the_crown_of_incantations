@@ -1,6 +1,6 @@
 {
   "restructuredtext.confPath": "${workspaceFolder}/chapters",
-  "python.pythonPath": "/home/stonecharioteer/code/tools/anaconda3/envs/writing/bin/python",
+  "python.pythonPath": "/home/stonecharioteer/code/tools/anaconda3/envs/sphinx/bin/python",
   "cSpell.words": [
     "Kroman's",
     "keerthi",
