@@ -23,3 +23,9 @@ help:
 
 livehtml:
 	sphinx-autobuild --open-browser --host "0.0.0.0" --port 9999 "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+github:
+	@make html
+	@rm -rf docs/*
+	@cp -a build/html/. docs
+	@git restore --source=HEAD --staged --worktree -- docs/CNAME
