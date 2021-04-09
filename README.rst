@@ -48,11 +48,12 @@ must be considered to supercede the previous drafts.
 License
 --------
 
-.. figure:: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+.. figure:: _static/images/license-by-nc-nd.jpg
     :alt: Creative Commons License
     :align: center
 
-This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International <http://creativecommons.org/licenses/by-nc-nd/4.0/>`_
+This work is licensed under a
+`Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International <http://creativecommons.org/licenses/by-nc-nd/4.0/>`_
 license.
 
 Vinay Keerthi exercises his right to be named as the author of this work
