@@ -91,7 +91,7 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "sphinx_rtd_theme"
+html_theme = "furo"
 #html_theme = 'alabaster'
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -140,8 +140,8 @@ htmlhelp_basename = 'TheCrownofIncantationsBlinderTrilogyBookOnedoc'
 html_show_sourcelink = False
 
 def setup(app):
-    app.add_stylesheet('https://fonts.googleapis.com/css?family=Merriweather&display=swap')
-    app.add_stylesheet('css/custom.css')
+    app.add_css_file('https://fonts.googleapis.com/css?family=Merriweather&display=swap')
+    app.add_css_file('css/custom.css')
 
 
 

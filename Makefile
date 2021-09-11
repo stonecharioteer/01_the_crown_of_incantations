@@ -1,14 +1,12 @@
 # Minimal makefile for Sphinx documentation
 #
 
-# You can set these variables from the command line.
-SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = TheCrownofIncantationsBlinderTrilogyBookOne
+# You can set these variables from the command line, and also
+# from the environment for the first two.
+SPHINXOPTS    ?=
+SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = chapters
-# BUILDDIR      = build/`date +%F`  # local build.
-BUILDDIR      = build/`$F`
-#echo $BUILDDIR;
+BUILDDIR      = build
 
 # Put it first so that "make" without argument is like "make help".
 help:
@@ -23,3 +21,10 @@ help:
 
 livehtml:
 	sphinx-autobuild --open-browser --host "0.0.0.0" --port 9999 "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+github:
+	@make html
+	@rm -rf docs/*
+	@cp -a build/html/. docs
+	@git restore --source=HEAD --staged --worktree -- docs/CNAME
+
