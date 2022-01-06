@@ -19,3 +19,5 @@ Chapters
     part_05/index
     epilogue
     todo-list
+
+.. include:: ../CHANGELOG.rst

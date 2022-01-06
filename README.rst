@@ -22,8 +22,7 @@ wielders of the Energy. Kro is wise beyond his years and hopes to keep his
 subjects happy and his kingdom safe. However, elements beyond his control wish
 to change that. As he leaves on a quest to find a family heirloom that is
 supposed to hold unfathomable power as a favour to an old Wizard, his kingdom
-stands risk of being attacked by Teria, a nation run by Kro's brother
-Yagnik.
+stands risk of being attacked by Teria, a nation run by Kro's brother Yagnik.
 
 Can Kro save his kingdom, or will he lose everything?
 
@@ -53,8 +52,8 @@ License
     :align: center
 
 This work is licensed under a
-`Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International <http://creativecommons.org/licenses/by-nc-nd/4.0/>`_
-license.
+`Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+<http://creativecommons.org/licenses/by-nc-nd/4.0/>`_ license.
 
 Vinay Keerthi exercises his right to be named as the author of this work
 and is to be contacted to discuss licensing, usage and distribution.
