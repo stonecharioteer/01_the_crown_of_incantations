@@ -117,3 +117,5 @@ dmypy.json
 .vscode/
 obsolete/
 plans/
+
+.envrc
