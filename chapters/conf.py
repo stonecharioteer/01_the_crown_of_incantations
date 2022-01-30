@@ -1,5 +1,5 @@
 project = "The Crown of Incantations"
-copyright = "2021, Vinay Keerthi"
+copyright = "2022, Vinay Keerthi"
 author = "Vinay Keerthi"
 extensions = [
     "sphinx.ext.todo",
@@ -12,6 +12,7 @@ html_theme = "furo"
 html_title = "The Crown of Incantations"
 serif_fonts = "Newsreader, Garamond, Helvetica, Times New Roman, Serif"
 html_theme_options = {
+    "announcement": "<em>This is a work in progress, and might not be in a readable state. See <a href='/readability.html'>this page</a> for more info</em>",
     "light_css_variables": {
         "font-stack": serif_fonts,
     },
@@ -24,3 +25,5 @@ html_css_files = ["css/custom.css"]
 html_last_updated_fmt = ""
 todo_include_todos = True
 html_show_sphinx = False
+release = "2022.01"
+version = "6"
