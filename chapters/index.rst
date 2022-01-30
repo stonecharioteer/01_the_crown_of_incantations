@@ -2,6 +2,10 @@
 
 .. include:: ../README.rst
 
+--------------
+Chapters
+--------------
+
 .. toctree::
     :maxdepth: 3
     :caption: Chapters:
@@ -15,3 +19,5 @@
     part_05/index
     epilogue
     todo-list
+
+.. include:: ../CHANGELOG.rst

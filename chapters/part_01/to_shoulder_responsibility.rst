@@ -1,6 +1,6 @@
-===========================
-To Shoulder Responsibility
-===========================
+==============================
+5. To Shoulder Responsibility
+==============================
 
 ..
     Kroman hears the Khaay out. Merlock wants the Crown to stop an impending war which will start at the hands of three tyrants. He needs the Crown’s power to stand up against them.

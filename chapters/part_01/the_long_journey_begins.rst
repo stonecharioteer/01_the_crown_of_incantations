@@ -1,8 +1,8 @@
-=========================
-The Long Journey Begins
-=========================
+===========================
+6. The Long Journey Begins
+===========================
 
-For the next week, they began making preparations to leave. Natasya supported Kroman’s decision completely and he was mildly surprised. 
+For the next week, they began making preparations to leave. Natasya supported Kroman’s decision completely and he was mildly surprised.
 
 “Aren’t you going to tell me to stay?” he asked her. They were in their room and it was night. The next day, he was going to leave for Elvindore.
 
@@ -40,11 +40,11 @@ Before him, the mountains stretched southwards. These mountains separated Teria 
 
 « Armelix. Where are you? » he concentrated, lending form to his thoughts. This was a new technique that Mala had discovered three years ago. The ability to transmit thought. Signalling, she called it.
 
-« I’m coming. » 
+« I’m coming. »
 
 The thoughts weren’t like actual conversation. They had no language, but the meaning was always conveyed. Sadly it worked only with Wizards.
 
-In a moment, Armelix appeared before him. Just as old as Kroman himself, Armelix was one of his first friends. He was a second-cousin on his father’s side. After Kroman overthrew Yagnik he had given an ultimatum to all the noble houses of Teria that had settled in Emansun, leave or forsake the title of nobility. It was something his teacher Gawin Oreille recommended against, in fact the half-Elwash had insisted that Kroman was being naïve by making this decision, but Kroman had a very strong reason for it. Natasya’s hometown had been subject to the entertainment of the Terian nobles, woman had been carried away because the lords believed they had a right to their virginity. Kroman had a hard time convincing Natasya’s father that he truly loved her once old Natniel Oceat had found out that he was the son of the Overlord. Of all the nobles, some of them Kroman’s cousins, Armelix had been the only one to stay back. He had been the only cousin Kroman had really taken a liking to, they were close enough that some thought they were brothers. Kroman had offered Armelix the post of Prime Wizard, a post that fell unto a reluctant Raikhon once Armelix refused for reasons he never divulged. In the following years, he underwent harsh training with the rest of the Warlocks who stayed back in order to learn how to be Wizards, and for the last three years, he served as the Captain of the Avansh Guard at Khanshu. 
+In a moment, Armelix appeared before him. Just as old as Kroman himself, Armelix was one of his first friends. He was a second-cousin on his father’s side. After Kroman overthrew Yagnik he had given an ultimatum to all the noble houses of Teria that had settled in Emansun, leave or forsake the title of nobility. It was something his teacher Gawin Oreille recommended against, in fact the half-Elwash had insisted that Kroman was being naïve by making this decision, but Kroman had a very strong reason for it. Natasya’s hometown had been subject to the entertainment of the Terian nobles, woman had been carried away because the lords believed they had a right to their virginity. Kroman had a hard time convincing Natasya’s father that he truly loved her once old Natniel Oceat had found out that he was the son of the Overlord. Of all the nobles, some of them Kroman’s cousins, Armelix had been the only one to stay back. He had been the only cousin Kroman had really taken a liking to, they were close enough that some thought they were brothers. Kroman had offered Armelix the post of Prime Wizard, a post that fell unto a reluctant Raikhon once Armelix refused for reasons he never divulged. In the following years, he underwent harsh training with the rest of the Warlocks who stayed back in order to learn how to be Wizards, and for the last three years, he served as the Captain of the Avansh Guard at Khanshu.
 
 Taller than Kroman by a head, Armelix had straight long black hair which parted at the centre of his head. He had a proud moustache curled at the ends and a beard covered his chin, neatly trimmed. He grinned at Kroman and said, “You should have teleported here. The circles work fine; I use them every time I need to get to Emansun. I think you’re the only one who bothers to use Envisioning. Talking to you when you look so… « transcluscent » is disturbing.”
 
@@ -106,7 +106,7 @@ The look Raikhon gave him was of sheer disgust. “You’re getting drunk on pow
 
 Kroman whirled around. Kroman pacified him “Do not see things where there are none. I am doing this for my own reasons, Raikhon. Please believe me. I trust you. I know that this country will be safe in your hands. And in five months, I’ll be back.”
 
-Raikhon nodded. “As you wish, « Sorcerer-King.” » 
+Raikhon nodded. “As you wish, « Sorcerer-King.” »
 
 “Raikhon,” he began but the old wizard was already out through the door.
 
@@ -114,7 +114,7 @@ Kroman felt like screaming.
 
 ***
 
-Kroman took in a deep breath. It was always a sudden realisation when he teleported atop Maekis. The circle looked like it was glowing for a moment, but it was only his imagination. He stepped off the stone and took a long breath of air. It was thinner, colder and smelled of Eltaarran. He looked down the slope and when he didn’t spot Sintrei anywhere close, he sighed. « He’s always late. » 
+Kroman took in a deep breath. It was always a sudden realisation when he teleported atop Maekis. The circle looked like it was glowing for a moment, but it was only his imagination. He stepped off the stone and took a long breath of air. It was thinner, colder and smelled of Eltaarran. He looked down the slope and when he didn’t spot Sintrei anywhere close, he sighed. « He’s always late. »
 
 He hurried down the slope and walked towards Elvindore. The village appeared out of nowhere as he stepped in its border. He spotted a tall Elwash standing next to a black horse. The Elwash was broad-shouldered and appeared ready for battle. Telpin always wore his blacksmith’s hammer at his hip. He looked like he was just out of the forge, he’d forgotten to take off his apron.
 
@@ -126,7 +126,7 @@ Telpin jerked his head towards a house to his left. “At Berya’s place. She�
 
 “Berya is in love? That’ll be the day Telpin,” said a voice from behind them.
 
-Kroman smiled at Telpin who shook his head slightly when Narla appeared in view from behind a tree carrying a large saddle and girdle. 
+Kroman smiled at Telpin who shook his head slightly when Narla appeared in view from behind a tree carrying a large saddle and girdle.
 
 “Ah, you know her best, Narla. I guess you’re right,” Telpin said, rolling his eyes at Kroman.
 
@@ -140,7 +140,7 @@ Narla chuckled. “I can see him now, brandishing a longsword, or a Srei even, a
 
 Kroman frowned. “Blood-Bow?” he asked.
 
-“You have « never » seen one, have you?” Narla asked. 
+“You have « never » seen one, have you?” Narla asked.
 
 Kroman shook his head.
 
@@ -252,7 +252,7 @@ Radell chuckled before he replied, “He’s hunting.”
 
 Radell stopped laughing to look at the Elwash for a second. “The Limiter’s zero today. He’s hunting for Nelius.”
 
-Kroman laughed. He had heard this story once before. All the Gradii claimed that Ransu was scariest when the Limiter was zero. While most Gradii were powerless without their Element, Ransu was the strongest. Almost all Gradii trained with a weapon, but Ransu was good at all sorts of weapons. Kroman smiled to himself. It was only ten years ago that the present Lord of the Lookout had been scared of so much as using his Element or touching a sword. Sanzu’s death changed Ransu forever. 
+Kroman laughed. He had heard this story once before. All the Gradii claimed that Ransu was scariest when the Limiter was zero. While most Gradii were powerless without their Element, Ransu was the strongest. Almost all Gradii trained with a weapon, but Ransu was good at all sorts of weapons. Kroman smiled to himself. It was only ten years ago that the present Lord of the Lookout had been scared of so much as using his Element or touching a sword. Sanzu’s death changed Ransu forever.
 
 “Searching for Nelius?” Kroman said, looking at the Gradius. Ransu frowned and rested his weight on the axe-handle which he used to stand now.
 
@@ -270,9 +270,9 @@ Ransu laughed with him now. “That we are, but neither of us is as confusing as
 
 Ransu shot the other Gradius a sharp look and then looked away. Lowering his head he picked up his axe and hauled it onto his shoulder. The thing was at least twice as heavy as the two broadswords.
 
-Still looking at his feet, he began to speak. 
+Still looking at his feet, he began to speak.
 
-“Until the quest is over, I, Ransu, Lord of the Lookout, Gradius of the Three Elements and Servant of the Imne am absolving you, Eomth, Gradius of this Lookout and Servant of the Supreme Raaz of your oath so that you may help the Sorcerer-King find what he seeks. On the fulfilment of this quest, you shall return to this place. Since, you must have full power during this quest; I raise the limiter from you so that you can sing to your full desire.” 
+“Until the quest is over, I, Ransu, Lord of the Lookout, Gradius of the Three Elements and Servant of the Imne am absolving you, Eomth, Gradius of this Lookout and Servant of the Supreme Raaz of your oath so that you may help the Sorcerer-King find what he seeks. On the fulfilment of this quest, you shall return to this place. Since, you must have full power during this quest; I raise the limiter from you so that you can sing to your full desire.”
 
 Ransu turned away and looked at Kroman for an instant as he began to walk towards the entrance. “I think there is a better way for you to take them across the Rua-e-Ruatte than through a ship from Sial, Eomth.” He said, “Be careful and, above all, be quick.”
 

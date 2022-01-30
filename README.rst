@@ -6,7 +6,10 @@ Blinder Trilogy: Book One
 The Crown of Incantations
 ---------------------------------
 
+
 Author: `Vinay Keerthi <mailto:ktvkvinaykeerthi@gmail.com>`_
+
+----
 
 .. note::
 
@@ -19,10 +22,11 @@ wielders of the Energy. Kro is wise beyond his years and hopes to keep his
 subjects happy and his kingdom safe. However, elements beyond his control wish
 to change that. As he leaves on a quest to find a family heirloom that is
 supposed to hold unfathomable power as a favour to an old Wizard, his kingdom
-stands risk of being attacked by Teria, a nation run by Kro's half-brother
-Yagnik.
+stands risk of being attacked by Teria, a nation run by Kro's brother Yagnik.
 
 Can Kro save his kingdom, or will he lose everything?
+
+----
 
 --------------------------
 About the Current Version
@@ -37,15 +41,19 @@ This version is hereafter labelled version 0, corresponding to 2019.06.
 The changes hereafter break several continuities in the previous version and
 must be considered to supercede the previous drafts.
 
---------------------------------------------------------------------------------------------
-Rights: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
---------------------------------------------------------------------------------------------
+----
 
-.. figure:: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+--------
+License
+--------
+
+.. figure:: _static/images/license-by-nc-nd.jpg
     :alt: Creative Commons License
     :align: center
 
-    This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. <http://creativecommons.org/licenses/by-nc-nd/4.0/>`_
+This work is licensed under a
+`Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+<http://creativecommons.org/licenses/by-nc-nd/4.0/>`_ license.
 
-    Vinay Keerthi exercises his right to be named as the author of this work
-    and is to be contacted to discuss licensing, usage and distribution.
+Vinay Keerthi exercises his right to be named as the author of this work
+and is to be contacted to discuss licensing, usage and distribution.

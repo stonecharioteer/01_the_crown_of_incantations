@@ -3,7 +3,6 @@ Part Five: The First Blinder
 =============================
 
 
-
 .. toctree::
 
     weight_of_a_crown

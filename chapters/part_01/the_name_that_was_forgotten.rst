@@ -1,9 +1,9 @@
 ..
     Chapter 2: The Name That Is Forgotten
 
-=============================
-The Name That Is Forgotten
-=============================
+==============================
+2. The Name That Is Forgotten
+==============================
 
 Giko stared at the cloaked man who walked through the gates. It was almost
 midnight. The Ahvansh Guard kept the roads safe but no man could be fool
