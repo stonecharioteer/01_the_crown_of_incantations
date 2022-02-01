@@ -13,7 +13,10 @@
 
 In dreams, memories often haunt us.
 
-*Red fire scorched the city. Rising like an ocean wave, the red tongue of flames rose upwards and over the golden walls of Emansun. It swept through the city, driving the Warlocks inwards, away from the walls that magically healed themselves as the fire burned.*
+*Red fire scorched the city. Rising like an ocean wave, the red tongue of
+flames rose upwards and over the golden walls of Emansun. It swept through the
+city, driving the Warlocks inwards, away from the walls that magically healed
+themselves as the fire burned.*
 
 There
 
